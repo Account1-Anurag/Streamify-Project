@@ -18,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/Account1-Anurag/Streamify-Project/issues"
   },
-  "homepage": "https://github.com/Account1-Anurag/Streamify-Project#readme"
+  "homepage": "https://github.com/Account1-Anurag/Streamify-Project#readme",
+  "dependencies": {
+  }
 }
